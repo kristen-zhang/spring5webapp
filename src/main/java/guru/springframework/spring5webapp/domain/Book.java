@@ -20,8 +20,6 @@ public class Book {
     @ManyToOne
     private Publisher publisher;
 
-
-
     public Book() {
     }
 
